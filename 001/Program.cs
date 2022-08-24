@@ -13,10 +13,10 @@ Console.WriteLine("Y:  ");
 int Y = Convert.ToInt32(Console.ReadLine());
 if (X < Y)
 {
-    Console.WriteLine("Y больше");
+    Console.WriteLine("Y больше "   );
 }
 else
 {
-    Console.WriteLine("X больше");
+    Console.WriteLine("X больше ");
 }
 
